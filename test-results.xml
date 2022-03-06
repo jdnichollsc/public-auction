@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.0440" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-06T18:22:26" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Auction" timestamp="2022-03-06T18:22:26" tests="6" file="/Users/jdnichollsc/dev/interviews/Novacomp/public-auction/test/Auction.test.js" time="1.0400" failures="0">
+    <testcase name="stores lastest bid" time="0.0880" classname="Auction stores lastest bid">
+    </testcase>
+    <testcase name="stores lastest bidder" time="0.0680" classname="Auction stores lastest bidder">
+    </testcase>
+    <testcase name="should give back previous bid" time="0.1250" classname="Auction should give back previous bid">
+    </testcase>
+    <testcase name="should transfer fund to seller" time="0.0940" classname="Auction should transfer fund to seller">
+    </testcase>
+    <testcase name="should not allow to bid lower" time="0.0350" classname="Auction should not allow to bid lower">
+    </testcase>
+    <testcase name="should not allow to bid after auction end" time="0.1390" classname="Auction should not allow to bid after auction end">
+    </testcase>
+  </testsuite>
+</testsuites>

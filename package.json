@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "startlocal": "truffle develop",
     "test": "truffle migrate --reset --network test && truffle test --network test",
     "testlocal": "truffle migrate --reset --network develop && truffle test --network develop"
   },
